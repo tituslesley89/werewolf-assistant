@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwerewolf_assistant_files"]=self["webpackChunkwerewolf_assistant_files"]||[]).push([[224],{5224:function(s,e,t){t.r(e),t.d(e,{default:function(){return f}});var n=function(){var s=this;s._self._c;return s._m(0)},l=[function(){var s=this,e=s._self._c;return e("div",{staticClass:"deck-builder"},[e("h1",[s._v("DECK BUILDER")])])}],u=t(3736),r={},i=(0,u.Z)(r,n,l,!1,null,null,null),f=i.exports}}]);
+//# sourceMappingURL=224.c73cd7d1.js.map
